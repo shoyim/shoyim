@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![shoyimobloqulov's github stats](https://github-readme-stats.vercel.app/api?username=shoyimobloqulov&show_icons=true&theme=default)
+![shoyimobloqulov's github stats](https://github-readme-stats.vercel.app/api?username=shoyim&show_icons=true&theme=default)
 
-![](https://komarev.com/ghpvc/?username=shoyimobloqulov&color=blue&theme=onedark)
+![](https://komarev.com/ghpvc/?username=shoyim&color=blue&theme=onedark)
 
 - 🔭 I'm currently working nowhere.
 - 🌱 I’m currently learning Web Developer, PHP/Laravel
