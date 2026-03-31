@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![shoyimobloqulov's github stats](https://github-readme-stats.vercel.app/api?username=shoyim&show_icons=true&theme=default)
+![shoyim's github stats](https://github-readme-stats.vercel.app/api?username=shoyim&show_icons=true&theme=default)
 
 ![](https://komarev.com/ghpvc/?username=shoyim&color=blue&theme=onedark)
 
