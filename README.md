@@ -25,6 +25,7 @@
 | [ai-test-rag](https://github.com/shoyim/ai-test-rag) | Offline RAG: Q&A and test generation from PDF books | Python · LLM |
 | [ip](https://github.com/shoyim/ip) | Geo-IP API: geolocation, ASN and country statistics | Laravel 12 |
 | [uzbek-transliterator](https://github.com/shoyim/uzbek-transliterator) | Uzbek Cyrillic ↔ Latin transliteration | PHP |
+| [latin-to-cyrillic](https://github.com/shoyim/latin-to-cyrillic) | Uzbek Latin ↔ Cyrillic ↔ new 2026 Latin (Ö Ğ Ş Ç) — on Packagist | PHP · Laravel |
 | [laravel-click](https://github.com/shoyim/laravel-click) | Click.uz payment integration for Laravel | PHP · Laravel |
 | [face_id_project](https://github.com/shoyim/face_id_project) | Face ID authentication system | Python · Django |
 
