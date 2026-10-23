@@ -26,6 +26,7 @@
 | [ip](https://github.com/shoyim/ip) | Geo-IP API: geolocation, ASN and country statistics | Laravel 12 |
 | [uzbek-transliterator](https://github.com/shoyim/uzbek-transliterator) | Uzbek Cyrillic ↔ Latin transliteration | PHP |
 | [latin-to-cyrillic](https://github.com/shoyim/latin-to-cyrillic) | Uzbek Latin ↔ Cyrillic ↔ new 2026 Latin (Ö Ğ Ş Ç) — on Packagist | PHP · Laravel |
+| [uzbek-translit-extension](https://github.com/shoyim/uzbek-translit-extension) | Chrome extension + Google Docs add-on for Uzbek transliteration | JavaScript |
 | [laravel-click](https://github.com/shoyim/laravel-click) | Click.uz payment integration for Laravel | PHP · Laravel |
 | [face_id_project](https://github.com/shoyim/face_id_project) | Face ID authentication system | Python · Django |
 
